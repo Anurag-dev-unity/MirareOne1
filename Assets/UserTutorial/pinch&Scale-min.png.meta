@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: e56c6e79e2281664ebd1c2e7c9e99607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8664897447308096328
+    second: pinch&Scale-min_0
+  - first:
+      213: 4162012292795884025
+    second: pinch&Scale-min_1
+  - first:
+      213: -6610568718973768070
+    second: pinch&Scale-min_2
+  - first:
+      213: -5733300348093868155
+    second: pinch&Scale-min_3
+  - first:
+      213: -1425788178097705447
+    second: pinch&Scale-min_4
+  - first:
+      213: 2780909843491133877
+    second: pinch&Scale-min_5
+  - first:
+      213: -6660309160238878915
+    second: pinch&Scale-min_6
+  - first:
+      213: -798352716684042537
+    second: pinch&Scale-min_7
+  - first:
+      213: 7265742958422199717
+    second: pinch&Scale-min_8
+  - first:
+      213: -8941643943525911568
+    second: pinch&Scale-min_9
+  - first:
+      213: -1680232388599085813
+    second: pinch&Scale-min_42
+  - first:
+      213: 3740873213520790370
+    second: pinch&Scale-min_43
+  - first:
+      213: -8242987076619648023
+    second: pinch&Scale-min_44
+  - first:
+      213: 1854488899815127686
+    second: pinch&Scale-min_45
+  - first:
+      213: -848882216204785616
+    second: pinch&Scale-min_46
+  - first:
+      213: -3666178173442230231
+    second: pinch&Scale-min_47
+  - first:
+      213: -1136750590610443742
+    second: pinch&Scale-min_48
+  - first:
+      213: 3236068992695411879
+    second: pinch&Scale-min_49
+  - first:
+      213: 1258017078476363969
+    second: pinch&Scale-min_50
+  - first:
+      213: -1088168865256694566
+    second: pinch&Scale-min_51
+  - first:
+      213: -5056064672129925054
+    second: pinch&Scale-min_84
+  - first:
+      213: -2538638589677938075
+    second: pinch&Scale-min_85
+  - first:
+      213: 2139210773615919457
+    second: pinch&Scale-min_86
+  - first:
+      213: 5090512408775711294
+    second: pinch&Scale-min_87
+  - first:
+      213: 7393734288170178659
+    second: pinch&Scale-min_88
+  - first:
+      213: 9119234471467709615
+    second: pinch&Scale-min_89
+  - first:
+      213: 3354405116649139831
+    second: pinch&Scale-min_90
+  - first:
+      213: 7836366114454489464
+    second: pinch&Scale-min_91
+  - first:
+      213: -2637816477050714381
+    second: pinch&Scale-min_92
+  - first:
+      213: 5533205200281948783
+    second: pinch&Scale-min_93
+  - first:
+      213: -3050994145603581154
+    second: pinch&Scale-min_126
+  - first:
+      213: 8300493930419039366
+    second: pinch&Scale-min_127
+  - first:
+      213: -6493084925738310106
+    second: pinch&Scale-min_128
+  - first:
+      213: 6387337259429417649
+    second: pinch&Scale-min_129
+  - first:
+      213: 7863272945094347853
+    second: pinch&Scale-min_130
+  - first:
+      213: -4399951171943102710
+    second: pinch&Scale-min_131
+  - first:
+      213: -2297505576984398700
+    second: pinch&Scale-min_132
+  - first:
+      213: 3197302171438798769
+    second: pinch&Scale-min_133
+  - first:
+      213: 143190856297725992
+    second: pinch&Scale-min_134
+  - first:
+      213: -63807438074232737
+    second: pinch&Scale-min_135
+  - first:
+      213: 2926174804108753396
+    second: pinch&Scale-min_168
+  - first:
+      213: 1814654799730061883
+    second: pinch&Scale-min_169
+  - first:
+      213: -681209912200473438
+    second: pinch&Scale-min_170
+  - first:
+      213: -1133693570488404649
+    second: pinch&Scale-min_171
+  - first:
+      213: 1227894943576018171
+    second: pinch&Scale-min_172
+  - first:
+      213: -2818803879540306624
+    second: pinch&Scale-min_173
+  - first:
+      213: -7774889683361304460
+    second: pinch&Scale-min_174
+  - first:
+      213: -4558488963021359671
+    second: pinch&Scale-min_175
+  - first:
+      213: 1849601029650708122
+    second: pinch&Scale-min_176
+  - first:
+      213: 1189229157884357226
+    second: pinch&Scale-min_177
+  - first:
+      213: 1065586775434208830
+    second: pinch&Scale-min_210
+  - first:
+      213: -5131730117560631168
+    second: pinch&Scale-min_211
+  - first:
+      213: -4777607488153024784
+    second: pinch&Scale-min_212
+  - first:
+      213: 5246431357777871804
+    second: pinch&Scale-min_213
+  - first:
+      213: 6972645828250343049
+    second: pinch&Scale-min_214
+  - first:
+      213: -4378759446790082811
+    second: pinch&Scale-min_215
+  - first:
+      213: -7962581140084850181
+    second: pinch&Scale-min_216
+  - first:
+      213: 8389392218262777797
+    second: pinch&Scale-min_217
+  - first:
+      213: -1074332623911001182
+    second: pinch&Scale-min_218
+  - first:
+      213: 6981305909424634891
+    second: pinch&Scale-min_219
+  - first:
+      213: 4495349837368986140
+    second: pinch&Scale-min_252
+  - first:
+      213: 2980221296944491864
+    second: pinch&Scale-min_253
+  - first:
+      213: 5205067356612244996
+    second: pinch&Scale-min_254
+  - first:
+      213: 321963518789816818
+    second: pinch&Scale-min_255
+  - first:
+      213: 3331534653747593776
+    second: pinch&Scale-min_10
+  - first:
+      213: 3942259221491453995
+    second: pinch&Scale-min_11
+  - first:
+      213: -1031516578379360519
+    second: pinch&Scale-min_12
+  - first:
+      213: 3961715524683734831
+    second: pinch&Scale-min_13
+  - first:
+      213: 6541940166997768379
+    second: pinch&Scale-min_14
+  - first:
+      213: -8817395739667469978
+    second: pinch&Scale-min_15
+  - first:
+      213: 3554185375080836323
+    second: pinch&Scale-min_16
+  - first:
+      213: 2674107338404116311
+    second: pinch&Scale-min_17
+  - first:
+      213: 9096279803670624719
+    second: pinch&Scale-min_18
+  - first:
+      213: 8288931136672084403
+    second: pinch&Scale-min_19
+  - first:
+      213: 4532778285381498818
+    second: pinch&Scale-min_20
+  - first:
+      213: -8689272034922424255
+    second: pinch&Scale-min_21
+  - first:
+      213: -5696484106175817768
+    second: pinch&Scale-min_22
+  - first:
+      213: -4960579284128665590
+    second: pinch&Scale-min_23
+  - first:
+      213: 1945742409599854398
+    second: pinch&Scale-min_24
+  - first:
+      213: -5318618228488670576
+    second: pinch&Scale-min_25
+  - first:
+      213: -7555489535504729010
+    second: pinch&Scale-min_26
+  - first:
+      213: 968478624129465844
+    second: pinch&Scale-min_27
+  - first:
+      213: -7064712940563046148
+    second: pinch&Scale-min_28
+  - first:
+      213: -3962986699992929883
+    second: pinch&Scale-min_29
+  - first:
+      213: 5862438974289657528
+    second: pinch&Scale-min_30
+  - first:
+      213: 4620816724266510362
+    second: pinch&Scale-min_31
+  - first:
+      213: 8759731584879717156
+    second: pinch&Scale-min_32
+  - first:
+      213: 9170311257063752905
+    second: pinch&Scale-min_33
+  - first:
+      213: 674291372849252536
+    second: pinch&Scale-min_34
+  - first:
+      213: 1111274046537975457
+    second: pinch&Scale-min_35
+  - first:
+      213: 5169888736233292955
+    second: pinch&Scale-min_36
+  - first:
+      213: -9077940310816432869
+    second: pinch&Scale-min_37
+  - first:
+      213: -195471939163243939
+    second: pinch&Scale-min_38
+  - first:
+      213: -4676022534785729442
+    second: pinch&Scale-min_39
+  - first:
+      213: 2311682496560834650
+    second: pinch&Scale-min_40
+  - first:
+      213: -6129882717642492094
+    second: pinch&Scale-min_41
+  - first:
+      213: -8912499354739859412
+    second: pinch&Scale-min_52
+  - first:
+      213: -3936973575561440344
+    second: pinch&Scale-min_53
+  - first:
+      213: 1051092999337922738
+    second: pinch&Scale-min_54
+  - first:
+      213: -7737202804584746385
+    second: pinch&Scale-min_55
+  - first:
+      213: 5227705596102205442
+    second: pinch&Scale-min_56
+  - first:
+      213: -824134380638628207
+    second: pinch&Scale-min_57
+  - first:
+      213: 1440676013915391617
+    second: pinch&Scale-min_58
+  - first:
+      213: 1780021999646907248
+    second: pinch&Scale-min_59
+  - first:
+      213: -2331826434448680307
+    second: pinch&Scale-min_60
+  - first:
+      213: -1228890525538458293
+    second: pinch&Scale-min_61
+  - first:
+      213: 58917174392902075
+    second: pinch&Scale-min_62
+  - first:
+      213: -2395137375095180993
+    second: pinch&Scale-min_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pinch&Scale-min_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5558a1339eeb4eab224fe2a7c3df5
+      internalID: 8664897447308096328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf920c01babfb94cab5a6089968b563
+      internalID: 4162012292795884025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_2
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45407f5387b3a2b4fb70240125b88f05
+      internalID: -6610568718973768070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_3
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d91d1cc9c54c44a499cfa0f6ba99c
+      internalID: -5733300348093868155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_4
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db756b6f950ec8b40be6d8d824fb0520
+      internalID: -1425788178097705447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_5
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bbd1dcb7502d145aea16e4f4672e4c
+      internalID: 2780909843491133877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_6
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a47762c29bbb80489070835cebfa816
+      internalID: -6660309160238878915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_7
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506659c8d8373a94e9c78af2b2f6da2b
+      internalID: -798352716684042537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_8
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66664b05957ab8c419a939eda5aacec4
+      internalID: 7265742958422199717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_9
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f14476d38a76634790ab7d879e5c8bd
+      internalID: -8941643943525911568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d39c50cda41e4991bfd54caa6e0a9
+      internalID: 3331534653747593776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fdfe432c14d784d801c72b2271f352
+      internalID: 3942259221491453995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_12
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6803d0845b9259548ab1f015fe1dafaf
+      internalID: -1031516578379360519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec6c16df11d86e4792af50d84612d54
+      internalID: 3961715524683734831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_14
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b1ca3c68c2de64387a063a53e13906
+      internalID: 6541940166997768379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_15
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57fe9a0000c7e4492d4fc5e77b0282
+      internalID: -8817395739667469978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_16
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c83959699f6e8d4cbc08a1564fa9c4e
+      internalID: 3554185375080836323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_17
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb8d94c2e7648344accbbb0358891a8
+      internalID: 2674107338404116311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_18
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b2758608a015438aa9ba09391600f
+      internalID: 9096279803670624719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_19
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4550bc75d58d894b99bb8cb06b68c62
+      internalID: 8288931136672084403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1877cc0fb6b814b9e1fb00ad8a16f0
+      internalID: 4532778285381498818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a98fb051817134db8e162b74479531
+      internalID: -8689272034922424255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49f8732f6b23454b88d56511d35aa2f
+      internalID: -5696484106175817768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_23
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a23fa58b9bf9cc4cbd546a3951ff87f
+      internalID: -4960579284128665590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_24
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b11760719ab15459305101ff6f5302
+      internalID: 1945742409599854398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_25
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a47ce0a04778d4abb2cdc37dcfc6dd
+      internalID: -5318618228488670576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_26
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad6af5f4063c84a990a384e6cfaec5
+      internalID: -7555489535504729010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_27
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f131db0d8565345ad7a8b0d3e845e8
+      internalID: 968478624129465844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_28
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59820b7b84356d4d99c60fb4275c139
+      internalID: -7064712940563046148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_29
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66931e98d11fc2c4dbdbe6f62b02091e
+      internalID: -3962986699992929883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d26d91ab6ab2a4689a2aa3cd43b40b
+      internalID: 5862438974289657528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f500aa18f0d3b7c4fb542f5ac36f0a87
+      internalID: 4620816724266510362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_32
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc73d4a2b28e4c41b9ba07907571025
+      internalID: 8759731584879717156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_33
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360c738855703a4a8ff278785da38a6
+      internalID: 9170311257063752905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_34
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4999417b18a88f542821fa9f522163a3
+      internalID: 674291372849252536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_35
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b30717fa3b6744af72d7299c8fe84
+      internalID: 1111274046537975457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_36
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70565227a78ffde4697e39a1a7519dc0
+      internalID: 5169888736233292955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_37
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3918f99a60395428accfe06cafac44
+      internalID: -9077940310816432869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_38
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b99ed43b7df054cbaf22de1dd48fc6
+      internalID: -195471939163243939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_39
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce8fe01921847146951579de5210399
+      internalID: -4676022534785729442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24023ff478a05945ac3d71155ec5589
+      internalID: 2311682496560834650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6348b76f2c22b46af0bb96db7ab2ef
+      internalID: -6129882717642492094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_42
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe65e390a44ff6428aad2d24b955150
+      internalID: -1680232388599085813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_43
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a1d1d98dd0d2d4ea98e0cd1e1a393e
+      internalID: 3740873213520790370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_44
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e28c37e561354b9eaa6629db2bfd8
+      internalID: -8242987076619648023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_45
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b915bdc3220f94ea5b7d53d5f34c0e
+      internalID: 1854488899815127686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_46
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c748c707842c54b90f3f4400333879
+      internalID: -848882216204785616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_47
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6c27d6942b4ba4bbffe3999f684cf2
+      internalID: -3666178173442230231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_48
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f780228cf03364e8568dd403cdb5a4
+      internalID: -1136750590610443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_49
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a994b7493ebbd4a81cde6fb6faa151
+      internalID: 3236068992695411879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0919b08253ba47a2b47dab1ccd69f
+      internalID: 1258017078476363969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63577f0d3f651f347a2d18ba39a1bb6c
+      internalID: -1088168865256694566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_52
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7503d85c25c2d734f82e0f18e62ebef7
+      internalID: -8912499354739859412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_53
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa29f17f0f43034fa4c298f6b4b44ee
+      internalID: -3936973575561440344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_54
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ba717202ce6e4ea2ce1d75457d7e2
+      internalID: 1051092999337922738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_55
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6290c42b6a0b64bbc276f5b0bce054
+      internalID: -7737202804584746385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_56
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f152a96d2d25c0419f6f52849e65ad1
+      internalID: 5227705596102205442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_57
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32211a15882a644f9c4f49f01baf3bc
+      internalID: -824134380638628207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_58
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f4da2cb6b64a24b81f18d9434f4572
+      internalID: 1440676013915391617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_59
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d3de2f9a44724bb329d33cac7bf22
+      internalID: 1780021999646907248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b0438311f1636419b242d999695eff
+      internalID: -2331826434448680307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1947a95c06f5ca4a8f7cfe1eee62bd9
+      internalID: -1228890525538458293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d71932fb0660f4187aa89f27dc98f6
+      internalID: 58917174392902075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinch&Scale-min_63
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b709d8d20c8f32d428752ce41fce00f3
+      internalID: -2395137375095180993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b727462c44f48e046ae5fa5abfe35e36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

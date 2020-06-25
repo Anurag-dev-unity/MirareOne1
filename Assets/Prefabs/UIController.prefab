@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7831472791687068493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7831472791687068495}
+  - component: {fileID: 7831472791687068494}
+  m_Layer: 0
+  m_Name: UIController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7831472791687068495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7831472791687068493}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7831472791687068494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7831472791687068493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fde71a5b9ee77934b8dcf78889cac2e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelRect: {fileID: 0}
+  mainMenu: {fileID: 0}
+  markerARPage: {fileID: 0}
+  campaignPage: {fileID: 0}
+  markerlessMRPage: {fileID: 0}
+  plusMarkerlessPage: {fileID: 0}
+  healthcarePage: {fileID: 0}
+  plusHealthcarePage: {fileID: 0}
+  furniturePage: {fileID: 0}
+  plusFurniturePage: {fileID: 0}
+  sofaPage: {fileID: 0}
+  plusSofaPage: {fileID: 0}
+  portalPage: {fileID: 0}
+  plusPortalPage: {fileID: 0}
+  selectionMenu: {fileID: 0}
+  colorsPage: {fileID: 0}
+  sprites:
+  - {fileID: 21300000, guid: c83a287b99650e742a583b765dee5336, type: 3}
+  - {fileID: 21300000, guid: 1fbd6eec18be1cd4981132bff64fbbff, type: 3}
+  - {fileID: 21300000, guid: 93cc2a0198d4e3649af699c482138a39, type: 3}
+  - {fileID: 21300000, guid: 28e6c235fd16635449616f0fdb7a6d01, type: 3}
+  menuBtnImage: {fileID: 0}
+  spawnedObjects: {fileID: 0}
+  panelScrollRect: {fileID: 0}
+  scrollbarObj: {fileID: 0}
+  scrollbar: {fileID: 0}
+  myScrollRect2: {fileID: 0}
+  deleteBtn: {fileID: 0}
+  pinchToScale: {fileID: 0}
+  scanPlane: {fileID: 0}
+  swipeToRotate: {fileID: 0}
+  downloadingObj: {fileID: 0}
+  tickSprite: {fileID: 21300000, guid: a23c19b559156dc428635f85404bdd3e, type: 3}
+  cancelDownloadObj: {fileID: 0}
+  checkNetTextObj: {fileID: 0}
+  tutorialBg: {fileID: 0}
+  tutorialStep4: {fileID: 0}
+  tutorialStep5: {fileID: 0}
+  tutorialStep6: {fileID: 0}
+  tutorialStep7: {fileID: 0}
+  tutorialStep8: {fileID: 0}
+  tutorialStep9: {fileID: 0}
+  arBtn: {fileID: 0}
+  automobileBtn: {fileID: 0}
+  furnitureBtn: {fileID: 0}
+  portalBtn: {fileID: 0}
+  healthcareBtn: {fileID: 0}
+  defenceBtn: {fileID: 0}
+  educationBtn: {fileID: 0}
+  furnitureTitleBtn: {fileID: 0}
+  sofaBtn: {fileID: 0}
+  chairBtn: {fileID: 0}
+  tableBtn: {fileID: 0}
+  bedBtn: {fileID: 0}
+  plusBtn: {fileID: 0}
+  sofaTitleBtn: {fileID: 0}
+  sofaSofaBtn: {fileID: 0}
+  sofa1Btn: {fileID: 0}
+  sofa2Btn: {fileID: 0}
+  sofa3Btn: {fileID: 0}
+  sofaPlusBtn: {fileID: 0}
+  priceBtn: {fileID: 0}
+  seatingBtn: {fileID: 0}
+  metalBtn: {fileID: 0}
+  alloysBtn: {fileID: 0}
+  colorsBtn: {fileID: 0}
+  woodenBtn: {fileID: 0}
+  step1Done: 0
+  step2Done: 0
+  step3Done: 0
+  step4Done: 0
+  step5Done: 0
+  step6Done: 0
+  step7Done: 0
+  step8Done: 0
+  step9Done: 0
+  portal: {fileID: 0}
+  guideText: {fileID: 0}
+  confirmDialog: {fileID: 0}
+  instructionDialog: {fileID: 0}
+  portalMats: []
+  pooledObjs: {fileID: 0}
+  spawnedObjs: {fileID: 0}

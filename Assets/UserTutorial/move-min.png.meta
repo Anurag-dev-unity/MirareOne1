@@ -1,0 +1,1905 @@
+fileFormatVersion: 2
+guid: 3a8168072037c3b4f910333a6a5dc459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8773179432737100050
+    second: move-min_0
+  - first:
+      213: 5852757513228859453
+    second: move-min_1
+  - first:
+      213: -4228309774064574169
+    second: move-min_2
+  - first:
+      213: -193584658516855172
+    second: move-min_3
+  - first:
+      213: -9170203891224872881
+    second: move-min_4
+  - first:
+      213: -3535078739308257735
+    second: move-min_5
+  - first:
+      213: -268821841434778826
+    second: move-min_6
+  - first:
+      213: 8802330830621770161
+    second: move-min_7
+  - first:
+      213: 9014831752658606078
+    second: move-min_8
+  - first:
+      213: -2676709595874768672
+    second: move-min_9
+  - first:
+      213: 2561742173559838061
+    second: move-min_20
+  - first:
+      213: -3164006245323705465
+    second: move-min_21
+  - first:
+      213: 2294323141148477368
+    second: move-min_22
+  - first:
+      213: -7667977526165782611
+    second: move-min_23
+  - first:
+      213: -9058816598661150450
+    second: move-min_24
+  - first:
+      213: -7422527425312483150
+    second: move-min_25
+  - first:
+      213: -6562712739941525960
+    second: move-min_26
+  - first:
+      213: 2350682470997081030
+    second: move-min_27
+  - first:
+      213: -7118443583853983376
+    second: move-min_28
+  - first:
+      213: -1319413604856269154
+    second: move-min_29
+  - first:
+      213: -2961696609288480921
+    second: move-min_40
+  - first:
+      213: -2313502722088803252
+    second: move-min_41
+  - first:
+      213: 1809175129909285751
+    second: move-min_42
+  - first:
+      213: -1296864850581091625
+    second: move-min_43
+  - first:
+      213: -6912842598467491075
+    second: move-min_44
+  - first:
+      213: -3851225449708628705
+    second: move-min_45
+  - first:
+      213: 1070115596287057849
+    second: move-min_46
+  - first:
+      213: 6074773192751446990
+    second: move-min_47
+  - first:
+      213: 2972508075096648969
+    second: move-min_48
+  - first:
+      213: -52322572124219571
+    second: move-min_49
+  - first:
+      213: -5890343717123636327
+    second: move-min_60
+  - first:
+      213: 6339474066142226746
+    second: move-min_61
+  - first:
+      213: 7533799429581488257
+    second: move-min_62
+  - first:
+      213: 3721834596866617170
+    second: move-min_63
+  - first:
+      213: 8786245965371347056
+    second: move-min_64
+  - first:
+      213: -7419280531343943000
+    second: move-min_65
+  - first:
+      213: -5417142853628424578
+    second: move-min_66
+  - first:
+      213: 6744114137655181858
+    second: move-min_67
+  - first:
+      213: -8519803366189172909
+    second: move-min_68
+  - first:
+      213: -3836461146763519389
+    second: move-min_69
+  - first:
+      213: -6729379795293190371
+    second: move-min_70
+  - first:
+      213: -2606982854191197778
+    second: move-min_71
+  - first:
+      213: 6601873874312676527
+    second: move-min_72
+  - first:
+      213: -6430145134009162339
+    second: move-min_73
+  - first:
+      213: -9018574860317926701
+    second: move-min_74
+  - first:
+      213: -5446515051218297030
+    second: move-min_75
+  - first:
+      213: -800356152143999792
+    second: move-min_76
+  - first:
+      213: 2145449018039239758
+    second: move-min_77
+  - first:
+      213: -7213557029619442811
+    second: move-min_78
+  - first:
+      213: 967200717306179635
+    second: move-min_79
+  - first:
+      213: -5067203080273020116
+    second: move-min_80
+  - first:
+      213: -3016456789567322828
+    second: move-min_81
+  - first:
+      213: -5735021634684132405
+    second: move-min_82
+  - first:
+      213: -1813146431305332455
+    second: move-min_93
+  - first:
+      213: -1749935263245569799
+    second: move-min_94
+  - first:
+      213: 237860214581320212
+    second: move-min_95
+  - first:
+      213: 6186760489405911176
+    second: move-min_96
+  - first:
+      213: 254227416753324545
+    second: move-min_97
+  - first:
+      213: -5518157159318626338
+    second: move-min_98
+  - first:
+      213: -8829581464471566116
+    second: move-min_99
+  - first:
+      213: 4217447572654484909
+    second: move-min_100
+  - first:
+      213: 6686723647914259603
+    second: move-min_101
+  - first:
+      213: 5195920369370756866
+    second: move-min_102
+  - first:
+      213: -4477073957860457777
+    second: move-min_103
+  - first:
+      213: -5899124576346449025
+    second: move-min_104
+  - first:
+      213: 8047609986062470955
+    second: move-min_105
+  - first:
+      213: -3222978808600837684
+    second: move-min_106
+  - first:
+      213: -7981648981660084302
+    second: move-min_107
+  - first:
+      213: -5548726564206254421
+    second: move-min_108
+  - first:
+      213: -2237955851025999440
+    second: move-min_109
+  - first:
+      213: -4731356567044836952
+    second: move-min_110
+  - first:
+      213: -8660373544399544841
+    second: move-min_111
+  - first:
+      213: 1699822269529040327
+    second: move-min_112
+  - first:
+      213: -5533836882852569600
+    second: move-min_113
+  - first:
+      213: -8351660659940828770
+    second: move-min_124
+  - first:
+      213: -8714791704062536234
+    second: move-min_125
+  - first:
+      213: -7059564352450532379
+    second: move-min_126
+  - first:
+      213: 5670518283720344080
+    second: move-min_127
+  - first:
+      213: -2145724949345101592
+    second: move-min_128
+  - first:
+      213: 2562069843631869615
+    second: move-min_129
+  - first:
+      213: -6455306211486995195
+    second: move-min_130
+  - first:
+      213: -110960831883980364
+    second: move-min_131
+  - first:
+      213: 7558137867986825497
+    second: move-min_132
+  - first:
+      213: 5890997474624235458
+    second: move-min_133
+  - first:
+      213: 378857364045096402
+    second: move-min_134
+  - first:
+      213: 3132699978040202785
+    second: move-min_135
+  - first:
+      213: 2694587164400045954
+    second: move-min_136
+  - first:
+      213: 5528487813795199223
+    second: move-min_137
+  - first:
+      213: 4028828823383996721
+    second: move-min_138
+  - first:
+      213: -3922445562236289375
+    second: move-min_139
+  - first:
+      213: 8969858717684670062
+    second: move-min_140
+  - first:
+      213: -5066035503168594098
+    second: move-min_142
+  - first:
+      213: -7833540718618711364
+    second: move-min_143
+  - first:
+      213: -1979044905058646028
+    second: move-min_145
+  - first:
+      213: -914316027726603850
+    second: move-min_146
+  - first:
+      213: 7586384069365317520
+    second: move-min_148
+  - first:
+      213: -7316262661478183597
+    second: move-min_149
+  - first:
+      213: -6461194249905620374
+    second: move-min_151
+  - first:
+      213: -5307563009617546145
+    second: move-min_152
+  - first:
+      213: -6068349207250745422
+    second: move-min_154
+  - first:
+      213: -1010920877871454864
+    second: move-min_155
+  - first:
+      213: -4472566500120026840
+    second: move-min_157
+  - first:
+      213: 5029558243605838545
+    second: move-min_10
+  - first:
+      213: 6771420305834040720
+    second: move-min_11
+  - first:
+      213: -3455133850059786685
+    second: move-min_12
+  - first:
+      213: -17703530892475864
+    second: move-min_13
+  - first:
+      213: -7325312356323459125
+    second: move-min_14
+  - first:
+      213: 7287647262417534023
+    second: move-min_15
+  - first:
+      213: -8239957333310184342
+    second: move-min_16
+  - first:
+      213: 2069510158271064566
+    second: move-min_17
+  - first:
+      213: 393429607498423300
+    second: move-min_18
+  - first:
+      213: -2357555386997476458
+    second: move-min_19
+  - first:
+      213: -8652156667248220904
+    second: move-min_30
+  - first:
+      213: -3927772295881868740
+    second: move-min_31
+  - first:
+      213: 5775556155273434914
+    second: move-min_32
+  - first:
+      213: 920092234238893243
+    second: move-min_33
+  - first:
+      213: 2150088670154335501
+    second: move-min_34
+  - first:
+      213: 6572482010997540304
+    second: move-min_35
+  - first:
+      213: -3715970231718714153
+    second: move-min_36
+  - first:
+      213: 5175793720379130415
+    second: move-min_37
+  - first:
+      213: 2181851529504807737
+    second: move-min_38
+  - first:
+      213: 7408633621114096654
+    second: move-min_39
+  - first:
+      213: -1902237478436421143
+    second: move-min_50
+  - first:
+      213: 4871774202750128733
+    second: move-min_51
+  - first:
+      213: -4071089107176445953
+    second: move-min_52
+  - first:
+      213: -7263686129951803809
+    second: move-min_53
+  - first:
+      213: 2203821195546061307
+    second: move-min_54
+  - first:
+      213: 7840590910000204615
+    second: move-min_55
+  - first:
+      213: 3566443808328740592
+    second: move-min_56
+  - first:
+      213: -6233674597887300846
+    second: move-min_57
+  - first:
+      213: -1687724073670195807
+    second: move-min_58
+  - first:
+      213: -6302122864991392220
+    second: move-min_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: move-min_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee1a3b6aa391344e8be14e11011550f
+      internalID: 8773179432737100050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fbcb0ec3df164592d950df3389985
+      internalID: 5852757513228859453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_2
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30543568bf59af848be05155a06eb99c
+      internalID: -4228309774064574169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_3
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0dc40cde29f94f923e6c4e5ee919d
+      internalID: -193584658516855172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_4
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d157ee4e52353e74f89aa25d16f8d1ca
+      internalID: -9170203891224872881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_5
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2d22a5c739c7438542b48ef38bf06
+      internalID: -3535078739308257735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_6
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8401026802c9a10488d65ae1917be2a0
+      internalID: -268821841434778826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_7
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb4c8c42c389f4e949f44240ab662d
+      internalID: 8802330830621770161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_8
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be88f0a5261654994c50d718974c92
+      internalID: 9014831752658606078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_9
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b339f34d0613604a87b85a69be18100
+      internalID: -2676709595874768672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d374d3b89f3224d9f1d9a9b9630223
+      internalID: 5029558243605838545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13d507a81f2a6c4d84135d9a7fd2c4a
+      internalID: 6771420305834040720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_12
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ac1c8929916148a1c8312e3b59ee8
+      internalID: -3455133850059786685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730ec1054ff30f24eb48e066cf4044b2
+      internalID: -17703530892475864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_14
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053348fe3a83d92449cc0c619daff6a5
+      internalID: -7325312356323459125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_15
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36afc4c82028d4183c943d04a5474d
+      internalID: 7287647262417534023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_16
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5967e7066d9098446b00baa42bf49cf4
+      internalID: -8239957333310184342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_17
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7012c22165cb65940999b770a34066ee
+      internalID: 2069510158271064566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_18
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd59f27f731db041a71773ae24b9d45
+      internalID: 393429607498423300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_19
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6413acd00097a44b949a0f88bf6a30
+      internalID: -2357555386997476458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c324999baf22c49b89e81e715c0fae
+      internalID: 2561742173559838061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589e903adc126943835b8c594540f07
+      internalID: -3164006245323705465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5499608339f542a83fb75d2cc8fd1
+      internalID: 2294323141148477368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_23
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29b2845d0321f4f973cb8df82fcf34
+      internalID: -7667977526165782611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_24
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afabd3a97f584644892ddae706e883b3
+      internalID: -9058816598661150450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_25
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc081f422abc1844bc9d930d4f9309f
+      internalID: -7422527425312483150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_26
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab89926d6612464596c5b9941a7d88e
+      internalID: -6562712739941525960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_27
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648f0e286dd5c04790184da8b42c4c0
+      internalID: 2350682470997081030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_28
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e068bfef4d55c4eb9eca6937e10f65
+      internalID: -7118443583853983376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_29
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2982f2a96aab942acf98a5c60cb8a1
+      internalID: -1319413604856269154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a0bbe71e2e674288aa26f0d9a3298
+      internalID: -8652156667248220904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813dda065e1dce4da3a032abf48cff1
+      internalID: -3927772295881868740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_32
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80737dfdf5c0954487f5ca702f64b22
+      internalID: 5775556155273434914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_33
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c2955c4e51ad4981d0e4d8d8d147a
+      internalID: 920092234238893243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_34
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0816ba8f4f667947aaa458201fdecf0
+      internalID: 2150088670154335501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_35
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941f56a3f3dd6047996498187306c7d
+      internalID: 6572482010997540304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_36
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe79057cb2ef346859390ca68ebfef
+      internalID: -3715970231718714153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_37
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f478b5f5426e04bb91be367a0d49de
+      internalID: 5175793720379130415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_38
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8065d9e897219b4e946ab419776d0cd
+      internalID: 2181851529504807737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_39
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd1a038dcba9b47b7548524b1791f9
+      internalID: 7408633621114096654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de84e29094d0d2a4686a2bf340587526
+      internalID: -2961696609288480921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91ea9da98b39447908063fbade47d7
+      internalID: -2313502722088803252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_42
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3b698ff8595e4fb6a94a399b10fee
+      internalID: 1809175129909285751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_43
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd3e9f692e3f8488e34222534420c1
+      internalID: -1296864850581091625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_44
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ec227540fc9ed4b96e26698648b031
+      internalID: -6912842598467491075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_45
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217620aadb832744881bbdda0471a7b3
+      internalID: -3851225449708628705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_46
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad54c8d9ba6db4f86f3f9ee8667cc6
+      internalID: 1070115596287057849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_47
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81023dd2467af84f88a3a38f4609423
+      internalID: 6074773192751446990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_48
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a1c96b97cd97f4a8dcbe81aef7285b
+      internalID: 2972508075096648969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_49
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8261854560921489ae74107602ae94
+      internalID: -52322572124219571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c30556d9a59314eb6ccd6815194421
+      internalID: -1902237478436421143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf4fce15f3fcc40b0162e329a7ca18
+      internalID: 4871774202750128733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_52
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc2b35f831565449d39a3db5696f93
+      internalID: -4071089107176445953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_53
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59706c42b935bb847b6e54262b727ea8
+      internalID: -7263686129951803809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_54
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48091c47070303419cf0e1dca654e6e
+      internalID: 2203821195546061307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_55
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c661e339fe3cd44cbd23626e1673464
+      internalID: 7840590910000204615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_56
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014b0e2fbf47b2439378dc4853cb7d5
+      internalID: 3566443808328740592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_57
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3216f491701aa439bfc1a34d00980a
+      internalID: -6233674597887300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_58
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf9ce049d831141a2b2528eaee9b64
+      internalID: -1687724073670195807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_59
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71fa053cb25dd4cae2404912d8b546
+      internalID: -6302122864991392220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b207d761a2e704b866b34cfb7f818d
+      internalID: -5890343717123636327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b346200e2a3fc47bbca28246133c2b
+      internalID: 6339474066142226746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6fb8cb2eb0d0409c1cc1ea697580d
+      internalID: 7533799429581488257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_63
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7c92803a0f5e4ba647040bb74d33e
+      internalID: 3721834596866617170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_64
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c6071612e0e864fb88fa6a41519073
+      internalID: 8786245965371347056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move-min_65
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d07e4792cfd5744bd1152b381b8dcb
+      internalID: -7419280531343943000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9055a1a0725dbe7418fa626dae422d33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

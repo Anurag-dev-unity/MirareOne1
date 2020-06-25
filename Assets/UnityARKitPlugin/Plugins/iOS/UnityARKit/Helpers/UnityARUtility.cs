@@ -1,0 +1,77 @@
+﻿using System;
+using System.Runtime.InteropServices;
+
+namespace UnityEngine.XR.iOS
+{
+	public class UnityARUtility
+	{
+		private MeshCollider meshCollider; //declared to avoid code stripping of class
+		private MeshFilter meshFilter; //declared to avoid code stripping of class
+		private static GameObject planePrefab = null;
+
+		public static void InitializePlanePrefab(GameObject go)
+		{
+			planePrefab = go;
+		}
+		
+		public static GameObject CreatePlaneInScene(ARPlaneAnchor arPlaneAnchor)
+		{
+			GameObject plane;
+			if (planePrefab != null) {
+				plane = GameObject.Instantiate(planePrefab);
+			} else {
+				plane = new GameObject (); //put in a blank gameObject to get at least a transform to manipulate
+			}
+
+			plane.name = arPlaneAnchor.identifier;
+
+			ARKitPlaneMeshRender apmr = plane.GetComponent<ARKitPlaneMeshRender> ();
+			if (apmr != null) {
+				apmr.InitiliazeMesh (arPlaneAnchor);
+			}
+
+            //++RARO
+            //add the detected plane to the list
+            AppManager.Instance.kitDetectedPlanes.Add(plane);
+            //AppManager.Instance.debugText.text = "plane added - " + plane.GetComponent<Collider>().bounds.size.ToString();
+            //AppManager.Instance.debugText.text = "plane Added - " + plane.transform.GetChild(0).transform.GetComponent<BoxCollider>().bounds.size.ToString();
+             //++RARO
+
+			return UpdatePlaneWithAnchorTransform(plane, arPlaneAnchor);
+
+		}
+
+		public static GameObject UpdatePlaneWithAnchorTransform(GameObject plane, ARPlaneAnchor arPlaneAnchor)
+		{
+			
+			//do coordinate conversion from ARKit to Unity
+			plane.transform.position = UnityARMatrixOps.GetPosition (arPlaneAnchor.transform);
+			plane.transform.rotation = UnityARMatrixOps.GetRotation (arPlaneAnchor.transform);
+
+			ARKitPlaneMeshRender apmr = plane.GetComponent<ARKitPlaneMeshRender> ();
+			if (apmr != null) {
+				apmr.UpdateMesh (arPlaneAnchor);
+			}
+
+
+			MeshFilter mf = plane.GetComponentInChildren<MeshFilter> ();
+
+			if (mf != null) {
+				if (apmr == null) {
+					//since our plane mesh is actually 10mx10m in the world, we scale it here by 0.1f
+					mf.gameObject.transform.localScale = new Vector3 (arPlaneAnchor.extent.x * 0.1f, arPlaneAnchor.extent.y * 0.1f, arPlaneAnchor.extent.z * 0.1f);
+
+	                //convert our center position to unity coords
+	                mf.gameObject.transform.localPosition = new Vector3(arPlaneAnchor.center.x,arPlaneAnchor.center.y, -arPlaneAnchor.center.z);
+				}
+
+			}
+
+			return plane;
+		}
+
+
+
+	}
+}
+

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{F7B3D123-4037-94C8-2EBB-986B4ED5CAA4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InteractableObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Touch/DetectTouchMovement.cs" Line="39" Column="13" />
+      <File FileName="Assets/Scripts/UI/UIController.cs" Line="770" Column="38" />
+      <File FileName="Assets/Scripts/Singletons/AppManager.cs" Line="1287" Column="62" />
+      <File FileName="Assets/Scripts/InteractableObject.cs" Line="104" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mirare One" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Singletons" expanded="True" />
+                <Node name="Touch" expanded="True" />
+                <Node name="UI" expanded="True" />
+                <Node name="InteractableObject.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mirare One" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7d6b56f-8de6-400a-ae03-aeff17367626" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: f851a03b61a2b784ba3a6bb9dab97437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4564430764141282205
+    second: swipTOrotate-min_0
+  - first:
+      213: 1320416620051979761
+    second: swipTOrotate-min_1
+  - first:
+      213: 7985211011012565301
+    second: swipTOrotate-min_2
+  - first:
+      213: 866018533046737791
+    second: swipTOrotate-min_3
+  - first:
+      213: -4505079722725625523
+    second: swipTOrotate-min_4
+  - first:
+      213: 1200702216695957577
+    second: swipTOrotate-min_5
+  - first:
+      213: -8088652974909109067
+    second: swipTOrotate-min_6
+  - first:
+      213: -5667772695577506742
+    second: swipTOrotate-min_7
+  - first:
+      213: 6134581026373592264
+    second: swipTOrotate-min_8
+  - first:
+      213: -5273246437823067313
+    second: swipTOrotate-min_9
+  - first:
+      213: -3315259178805464574
+    second: swipTOrotate-min_10
+  - first:
+      213: 6933366337337537518
+    second: swipTOrotate-min_11
+  - first:
+      213: -3005694697288929423
+    second: swipTOrotate-min_12
+  - first:
+      213: 2675091045348254343
+    second: swipTOrotate-min_13
+  - first:
+      213: 1668923640372393471
+    second: swipTOrotate-min_14
+  - first:
+      213: 8400517442498536132
+    second: swipTOrotate-min_15
+  - first:
+      213: -5351115869155809398
+    second: swipTOrotate-min_16
+  - first:
+      213: 7544712891610443648
+    second: swipTOrotate-min_17
+  - first:
+      213: -708085111964876762
+    second: swipTOrotate-min_18
+  - first:
+      213: -1735543671317609696
+    second: swipTOrotate-min_19
+  - first:
+      213: -4045318297061713321
+    second: swipTOrotate-min_20
+  - first:
+      213: 7890287311114190809
+    second: swipTOrotate-min_21
+  - first:
+      213: 8143532855574863465
+    second: swipTOrotate-min_22
+  - first:
+      213: -1860602888134518028
+    second: swipTOrotate-min_23
+  - first:
+      213: -1571911508442105489
+    second: swipTOrotate-min_24
+  - first:
+      213: 2024220583516928822
+    second: swipTOrotate-min_25
+  - first:
+      213: -1514396713076725426
+    second: swipTOrotate-min_26
+  - first:
+      213: -4414480540860607405
+    second: swipTOrotate-min_27
+  - first:
+      213: 6660776716440906621
+    second: swipTOrotate-min_28
+  - first:
+      213: 2761162440233038505
+    second: swipTOrotate-min_29
+  - first:
+      213: -693900569505183702
+    second: swipTOrotate-min_30
+  - first:
+      213: 4066591939156984410
+    second: swipTOrotate-min_31
+  - first:
+      213: 4947239233726744815
+    second: swipTOrotate-min_32
+  - first:
+      213: -2994573536643432545
+    second: swipTOrotate-min_33
+  - first:
+      213: 5473302794455795919
+    second: swipTOrotate-min_34
+  - first:
+      213: 2034268401164987444
+    second: swipTOrotate-min_35
+  - first:
+      213: -5594981757078740561
+    second: swipTOrotate-min_36
+  - first:
+      213: 5723478049448133351
+    second: swipTOrotate-min_37
+  - first:
+      213: -2813830073883058511
+    second: swipTOrotate-min_38
+  - first:
+      213: 8518228308405412636
+    second: swipTOrotate-min_39
+  - first:
+      213: 6684233015490583521
+    second: swipTOrotate-min_40
+  - first:
+      213: -3552148299824035614
+    second: swipTOrotate-min_41
+  - first:
+      213: -5210298983343587466
+    second: swipTOrotate-min_42
+  - first:
+      213: -6576592683014388121
+    second: swipTOrotate-min_43
+  - first:
+      213: -2625377306805668920
+    second: swipTOrotate-min_44
+  - first:
+      213: 3336101292335573861
+    second: swipTOrotate-min_45
+  - first:
+      213: 4265807769553985276
+    second: swipTOrotate-min_46
+  - first:
+      213: 3511191668887232866
+    second: swipTOrotate-min_47
+  - first:
+      213: -2434646605049004124
+    second: swipTOrotate-min_48
+  - first:
+      213: -7993658799984073648
+    second: swipTOrotate-min_49
+  - first:
+      213: -7974018849842048283
+    second: swipTOrotate-min_50
+  - first:
+      213: -4998324632378695078
+    second: swipTOrotate-min_51
+  - first:
+      213: 6499886465154992577
+    second: swipTOrotate-min_52
+  - first:
+      213: 5812164462062518379
+    second: swipTOrotate-min_53
+  - first:
+      213: 529361863954245241
+    second: swipTOrotate-min_54
+  - first:
+      213: -3588372791117959119
+    second: swipTOrotate-min_55
+  - first:
+      213: 6097399296882776027
+    second: swipTOrotate-min_56
+  - first:
+      213: -3498451767099358590
+    second: swipTOrotate-min_57
+  - first:
+      213: -3534905197185385069
+    second: swipTOrotate-min_58
+  - first:
+      213: 6678876488203316355
+    second: swipTOrotate-min_59
+  - first:
+      213: 1659638896662773294
+    second: swipTOrotate-min_60
+  - first:
+      213: -9200945881228812043
+    second: swipTOrotate-min_61
+  - first:
+      213: 198760743963654458
+    second: swipTOrotate-min_62
+  - first:
+      213: 6840145557451879401
+    second: swipTOrotate-min_63
+  - first:
+      213: -8737282247385848601
+    second: swipTOrotate-min_64
+  - first:
+      213: -3695768472099712125
+    second: swipTOrotate-min_65
+  - first:
+      213: 5333908237246927657
+    second: swipTOrotate-min_66
+  - first:
+      213: -1888722819485033802
+    second: swipTOrotate-min_67
+  - first:
+      213: 7873594484726440109
+    second: swipTOrotate-min_68
+  - first:
+      213: -2431955064553527207
+    second: swipTOrotate-min_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swipTOrotate-min_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b803cfca8883c4288dd4bd4df7d799
+      internalID: 4564430764141282205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9565845a4edd8248965aa494d63c999
+      internalID: 1320416620051979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_2
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ef87326d264f4b9780da2ac062c53
+      internalID: 7985211011012565301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_3
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116a260faa245fd49806a50f627c0bfc
+      internalID: 866018533046737791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_4
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f5078fe52885e4dbd4ffb9a2687d8d
+      internalID: -4505079722725625523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_5
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aeaf4680a298a4d801d6c645d08abb
+      internalID: 1200702216695957577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_6
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00a772c19f64442bf0f16b37572b1f
+      internalID: -8088652974909109067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_7
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dadea2a8e22ab4490755d4c2f5cdce
+      internalID: -5667772695577506742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_8
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c79beffa3343d4cb18b4c9c8c98738
+      internalID: 6134581026373592264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_9
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 5526
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce33711cf28487a44ae40ea77a9539e3
+      internalID: -5273246437823067313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17decd773b80b6848a96e4897a7dcde6
+      internalID: -3315259178805464574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_11
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d245dfcfd6d304ba6a430f19ec6b48
+      internalID: 6933366337337537518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_12
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4e51dea66d604dbc41e0320b04a3e
+      internalID: -3005694697288929423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3a375d2e476d4cbb10c0a97325cef
+      internalID: 2675091045348254343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_14
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfdc3333e8903547b8f63e81654f7c8
+      internalID: 1668923640372393471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_15
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63de92e8f4b9f0408ceeb6c65e0350a
+      internalID: 8400517442498536132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_16
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8dde723b1f0940bf4b8b4f59c30c7
+      internalID: -5351115869155809398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_17
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f633c85cee65244aac45efe5b09054
+      internalID: 7544712891610443648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_18
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ebfcaff31f90a4d886f79fdad336e5
+      internalID: -708085111964876762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_19
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 4605
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2050ac4b5c4b364d9fa08c0306351b1
+      internalID: -1735543671317609696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46208246f760e74cb685a97c126b596
+      internalID: -4045318297061713321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211faf33fb48b1e4292f0ef91a532cc2
+      internalID: 7890287311114190809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_22
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b05c3b24b9ecf4a9c1380ec193d34d
+      internalID: 8143532855574863465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_23
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56134a4f71234f949acc60139b7142bf
+      internalID: -1860602888134518028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_24
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed333bf90776594f81b9a406b4c5b61
+      internalID: -1571911508442105489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_25
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c19ceeea061be14c84232fbc6cf5538
+      internalID: 2024220583516928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_26
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22017af98748d5f42ad5dd662a6e3a38
+      internalID: -1514396713076725426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_27
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589385ce240b7e479166d0996d80df7
+      internalID: -4414480540860607405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_28
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525400a37efa7a418d101df705fc1f4
+      internalID: 6660776716440906621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_29
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 3684
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f97a43fb184de946a20b2d6c0481119
+      internalID: 2761162440233038505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0327bc5b9c82ce4297bc2b47d43530b
+      internalID: -693900569505183702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_31
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148af305ef4ab3146ad4ec5f7e992d00
+      internalID: 4066591939156984410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_32
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fff34229bcb8341bd97df7eab7ec94
+      internalID: 4947239233726744815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_33
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48921456f9ca2144b6d88c17281c849
+      internalID: -2994573536643432545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_34
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa6ba932f0d5344a0cfc6f8379dc30
+      internalID: 5473302794455795919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_35
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7407ff5ff57f5346a619ba7b82f40fb
+      internalID: 2034268401164987444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_36
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5934a3fa211ad946a8afa1fc8a19e21
+      internalID: -5594981757078740561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_37
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c57bea8d12b28468cc1898a3655ee2
+      internalID: 5723478049448133351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_38
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b49b044f6b1bb4789c1c652434edf1
+      internalID: -2813830073883058511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_39
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 2763
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58377455e98af8e4194e08f64e2714a9
+      internalID: 8518228308405412636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e88a78b491d3459300fe02547c5b2
+      internalID: 6684233015490583521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971044ed57429143b7c4133576a7e71
+      internalID: -3552148299824035614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_42
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae8dcd2702da94bb721c8ebf3fdc2d
+      internalID: -5210298983343587466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_43
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa9400d16bef947a8dde5f9f631b3a
+      internalID: -6576592683014388121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_44
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673581c0b167d04fa7c5a6576a25438
+      internalID: -2625377306805668920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_45
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443107ac9f414974385402dd7abad003
+      internalID: 3336101292335573861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_46
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17cf4382b6e3d04d8aeb1493b495f72
+      internalID: 4265807769553985276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_47
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5edac4595810d489978af588fac432
+      internalID: 3511191668887232866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_48
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c86c92d9245f041a6005bc06aa4903
+      internalID: -2434646605049004124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_49
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 1842
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be757ee63e51948bf153d5864fe15f
+      internalID: -7993658799984073648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1f77ba5cf50841ae75ebaee79cf7a
+      internalID: -7974018849842048283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_51
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59abc8756b7ce724baccf0870e0b6876
+      internalID: -4998324632378695078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_52
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9fcd736b0fcb4d9d8fc177625a681
+      internalID: 6499886465154992577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_53
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdc3d3ef0a275c4b9b6c42638a5837e
+      internalID: 5812164462062518379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_54
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72940708824fe9d45acc2ffb0218e3bc
+      internalID: 529361863954245241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_55
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c121be48e87c4eb19383870c9a7e8
+      internalID: -3588372791117959119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_56
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bdd5b6497011149b21ec23bdc96691
+      internalID: 6097399296882776027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_57
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcaa1b121ab1b441a3825884f9411ee
+      internalID: -3498451767099358590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_58
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a3f39fc087e474d9bf3f166363b054
+      internalID: -3534905197185385069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_59
+      rect:
+        serializedVersion: 2
+        x: 7722
+        y: 921
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deef954cd67363499f76968879caa9c
+      internalID: 6678876488203316355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821ca9417d420947be993ae8cba89b6
+      internalID: 1659638896662773294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af6d1002580ab34799623d64e1e4968
+      internalID: -9200945881228812043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967cf0f6b0aec494b95512835b519d26
+      internalID: 198760743963654458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_63
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25debe5c280308a42bec980cce0e1275
+      internalID: 6840145557451879401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_64
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee97061985092e4cad625b88289c38f
+      internalID: -8737282247385848601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swipTOrotate-min_65
+      rect:
+        serializedVersion: 2
+        x: 4290
+        y: 0
+        width: 858
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2e3ef47c3a7044a571561c8b7b68d
+      internalID: -3695768472099712125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1720547e1769e9346b2f7b6e6d72c199
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
